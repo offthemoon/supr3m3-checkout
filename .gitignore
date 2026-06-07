@@ -1,0 +1,10 @@
+*.txt
+__pycache__
+chrome_data
+downloaded_files
+learnPlayWright
+*.json
+*.db
+*.env
+chromeInformation
+*.md
