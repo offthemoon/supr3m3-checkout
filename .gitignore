@@ -1,6 +1,6 @@
 *.txt
 __pycache__
-chrome_data
+chrome_data*
 downloaded_files
 learnPlayWright
 *.json
